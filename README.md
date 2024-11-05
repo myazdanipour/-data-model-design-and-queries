@@ -5,7 +5,7 @@ This project critically evaluates the data management practices of Digikala, a l
 
 
 ## ✔️Main Report
-The complete evaluation and analysis are available in the detailed report here: [Digikala Data Management Report.pdf](link-to-your-report).
+The complete evaluation and analysis are available in the detailed report here: [Digikala Data Management Report.pdf].
 
 ## ✔️Problem Statement
 Digikala faces challenges in managing inventory during high-demand periods and promotional events. To address this, the project recommends implementing an OLAP system to forecast demand and adjust inventory levels dynamically. This will enable Digikala to:
