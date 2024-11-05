@@ -1,0 +1,11 @@
+CustomerID,Title,FirstName,LastName,AddressLine,CityID,PostalCode,EmailAddress,PhoneNumber,Gender,MaritalStatus,BirthDate,AnnualIncome
+29580,Mr.,Richard,Bready,7338 Green St.,1,98020,richard1@adventure-works.com,340-555-0131,1,1,9/25/1973,55000
+29591,Mr.,Robert,Brown,7270 Pepper Way,2,98004,robert5@adventure-works.com,575-555-0189,1,1,9/20/1978,62000
+29661,Mr.,Charles,Christensen,9533 Ridgewood Drive,3,98201,charles1@adventure-works.com,334-555-0146,1,0,4/25/1984,45000
+29672,Mr.,Takiko,Collins,9537 Ridgewood Drive,3,98052,takiko0@adventure-works.com,987-555-0126,1,1,9/18/1980,67000
+29734,Ms.,Jauna,Elson,3074 Arbor Drive,4,98006,jauna0@adventure-works.com,185-555-0190,0,0,3/25/1990,72000
+29825,Mr.,James,Hendergart,9666 Northridge Ct.,4,98027,james9@adventure-works.com,967-555-0129,1,0,8/15/1994,120000
+29874,Mr.,David,Jaffe,6057 Hill Street,2,98055,david17@adventure-works.com,1 (11) 500 555-0140,1,1,7/11/2000,750000
+29890,Ms.,Peggy,Justice,172 Turning Dr.,1,94015,peggy0@adventure-works.com,170-555-0189,0,1,1/16/2001,65000
+29898,Mr.,Sandeep,Katyal,2687 Ridge Road,3,83702,sandeep2@adventure-works.com,928-555-0117,1,0,6/10/1979,32000
+29994,Ms.,Robin,McGuigan,502 Alexander Pl.,4,84101,robin0@adventure-works.com,431-555-0153,0,1,2/11/2003,70000

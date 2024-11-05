@@ -1,0 +1,9 @@
+ProductID,Name,ProductNumber,Color,Cost,OriginalPrice,ProductCategoryID,Stock
+708,"Sport-100 Helmet, Black",HL-U509,Black,13.0863,34.99,2,30
+711,"Sport-100 Helmet, Blue",HL-U509-B,Blue,13.0863,34.99,2,24
+712,AWC Logo Cap,CA-1098,Multi,6.9223,8.99,3,98
+714,"Long-Sleeve Logo Jersey, M",LJ-0192-M,Multi,38.4923,49.99,3,36
+762,"Road-650 Red, 44",BK-R50R-44,Red,486.7066,782.99,1,12
+770,"Road-650 Black, 52",BK-R50B-52,Black,486.7066,782.99,1,9
+864,"Classic Vest, S",VE-C304-S,Blue,23.749,63.5,3,54
+884,"Short-Sleeve Classic Jersey, XL",SJ-0194-X,Yellow,41.5723,53.99,3,76
