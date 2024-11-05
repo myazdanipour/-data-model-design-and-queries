@@ -3,6 +3,7 @@
 ## ✔️Overview
 This project critically evaluates the data management practices of Digikala, a leading online shopping platform, and proposes solutions to improve its operations. The project focuses on optimising data flow and enhancing inventory management by integrating an OLAP system for real-time analytics. A Data Flow Diagram (DFD) and an Entity-Relationship Diagram (ERD) were created to represent the current and proposed systems. Additionally, a fully implemented SQL-based prototype was built, including 8 queries to generate strategic reports and insights.
 
+
 ## ✔️Main Report
 The complete evaluation and analysis are available in the detailed report here: [Digikala Data Management Evaluation Report](link-to-your-report).
 
@@ -24,12 +25,12 @@ The project evaluates various aspects of Digikala’s data management, such as:
 
 ### 2. Data Flow Diagrams (DFD)
 - **Context Diagram (As Is)**: Shows how Digikala currently handles customer interactions, payment processing, and inventory management.
+![DFD_Level0_AsIs](Images/Context Diagram Digikala shopping system – As Is.png) <br><br>
 - **Level 0 DFD (As Is)**: Visualises the data flow for key processes like order fulfilment, payment processing, and inventory updates.
 
-![Context Diagram Digikala shopping system – As Is](https://github.com/user-attachments/assets/58fce150-9d67-4c0a-a8ac-ca06b2870034) <br><br><br><br><br>
-![DFD_Level0_AsIs](https://github.com/user-attachments/assets/ba47da9c-61fc-4eba-bbee-d44bcba98d02) <br><br>
+![DFD_Level0_AsIs](Images/DFD_Level0_AsIs.png) <br><br>
 - **Context Diagram (To Be)**: Introduces an OLAP system to enable better inventory forecasting.
 - **Level 0 DFD (To Be)**: Displays how real-time analytics will provide restocking recommendations to improve inventory management.
-![Context Diagram-To be](https://github.com/user-attachments/assets/2f1c7557-9478-447a-8b19-4b24cd96bf03) <br><br><br><br><br>
+![Context Diagram-To be](Images/Context Diagram-To be.png) <br><br><br><br><br>
 
-![DFD_Level0_ToBe](https://github.com/user-attachments/assets/4e8b198d-6618-4972-aae6-9405b2b08c5a) <br><br>
+![DFD_Level0_ToBe](Images/DFD_Level0_ToBe.png) <br><br>
